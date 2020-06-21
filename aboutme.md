@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle:
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Masaru Ryumae. I was originally born in Japan, but left in 1993 for a new adventure. I have lived in the U.S. for the last 20+ yrs. Interested in ML, technologies, STEM kids education.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I have the following qualities:
 
-What else do you need?
+- I am dedicated to kid's education.
+- I'm loyal to my family.
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+To be continued.
